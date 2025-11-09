@@ -1,1 +1,1 @@
-The learnong of the new skills in creating HTML page.
+The learning of the new skills in creating HTML page.
