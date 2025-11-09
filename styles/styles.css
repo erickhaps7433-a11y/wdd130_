@@ -1,11 +1,12 @@
 nav {
-    background-color: rgb(36, 122, 86) padding: 10px;
+    background-color: rgb(36, 122, 86);
+    padding: 10px;
 }
 
 
 nav a {
     color: aqua;
-    desplay: inline-block;
+    display: inline-block;
     padding: 10px;
 }
 
@@ -17,7 +18,8 @@ img {
     width: 300px;
     height: auto;
     border: 1px solid #000000a4;
-    box-shadow: #700000 padding: 5px
+    box-shadow: 0 0 5px #700000;
+    padding: 5px;
 }
 
 
